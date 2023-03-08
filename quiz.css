@@ -1,0 +1,45 @@
+.intro{
+padding: 0px 3px;
+background-color: whitesmoke;
+text-align: center;
+}
+.text{
+    margin: 0px px;
+    color: white;
+}
+.text1{
+    margin: 0px 5px;
+    color: blue;
+}
+.lead{
+    font-weight: normal;
+}
+.form-check{
+    margin: 0px 2px;
+    color: white;
+}
+.quiz{
+    padding: 0px 4px;
+    background-color: blue;
+}
+.mainbody{
+    margin: 0px 5px;
+}
+.button{
+    margin:10px 10px;
+}
+.btn{
+    border:none;
+    background-color: azure;
+    color: black;
+}
+.result{
+    display: none;
+    background-color: lightblue;
+    text-align: center;
+}
+.text3{
+
+    padding: 3px;
+    text-align: center;
+}
